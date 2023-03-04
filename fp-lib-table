@@ -1,0 +1,13 @@
+(fp_lib_table
+  (lib (name "AT25DF256-SSHN-T")(type "KiCad")(uri "${KIPRJMOD}/libraries/AT25DF256-SSHN-T/AT25DF256-SSHN-T.pretty")(options "")(descr ""))
+  (lib (name "H11L1S")(type "KiCad")(uri "${KIPRJMOD}/libraries/H11L1S/H11L1S.pretty")(options "")(descr ""))
+  (lib (name "PCM1681Q1")(type "KiCad")(uri "${KIPRJMOD}/libraries/PCM1681Q1/PCM1681Q1.pretty")(options "")(descr ""))
+  (lib (name "MEM2061")(type "KiCad")(uri "${KIPRJMOD}/libraries/MEM2061/MEM2061.pretty")(options "")(descr ""))
+  (lib (name "Device_Audio_Electrosmith_Daisy_Seed")(type "KiCad")(uri "${KIPRJMOD}/libraries/kicad-electrosmith-daisy-seed/Device_Audio_Electrosmith_Daisy_Seed.pretty")(options "")(descr ""))
+  (lib (name "LP2981")(type "KiCad")(uri "${KIPRJMOD}/libraries/LP2981/LP2981.pretty")(options "")(descr ""))
+  (lib (name "USB4105_REVA")(type "KiCad")(uri "${KIPRJMOD}/libraries/USB4105_REVA/USB4105_REVA.pretty")(options "")(descr ""))
+  (lib (name "PJ-059A")(type "KiCad")(uri "${KIPRJMOD}/libraries/PJ-059A/PJ-059A.pretty")(options "")(descr ""))
+  (lib (name "MEM2061-01-188-00-A_REVA")(type "KiCad")(uri "${KIPRJMOD}/libraries/MEM2061-01-188-00-A_REVA/MEM2061-01-188-00-A_REVA.pretty")(options "")(descr ""))
+  (lib (name "SS14-E3")(type "KiCad")(uri "${KIPRJMOD}/libraries/SS14-E3/SS14-E3.pretty")(options "")(descr ""))
+  (lib (name "USB-A1HSW6")(type "KiCad")(uri "${KIPRJMOD}/libraries/USB-A1HSW6/USB-A1HSW6.pretty")(options "")(descr ""))
+)
